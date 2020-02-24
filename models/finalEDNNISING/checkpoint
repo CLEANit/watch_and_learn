@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/kspra/Documents/Notebook/Lattice-RNN/models/finalEDNNISING/model.ckpt"
+all_model_checkpoint_paths: "/home/kspra/Documents/Notebook/Lattice-RNN/models/finalEDNNISING/model.ckpt"
